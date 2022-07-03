@@ -1,2 +1,2 @@
 # Genesis
-Student Body of Biotechnology
+Student Body of Biosciences and Bioengineering IIT Guwahati
