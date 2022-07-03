@@ -1,1 +1,2 @@
-# genesis
+# Genesis
+Student Body of Biotechnology
